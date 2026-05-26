@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+body
+{
+    background-color:#fffaf0;
+    columns: #333333;
+    font-family: "メイリオ","Hiragino Sans",sans-serif;
+    margin:0;
+    padding:0;
+}
+
+
+h1{
+    color:#ffffff;
+    background-color:#008060;
+    font-size: 32px;
+    padding:20px;
+    margin:0;
+    text-align:center;
+}
+
+article{
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h2{
+    font-size:22px;
+    border-left:10px solid #008060;
+    padding-left:10px;
+}
+
+p,li{
+    font: size 90%;
+    line-height:1.8;
+}
+
+footer{
+    text-align:center;
+    color:#ffffff;
+    background-color:#008060;
+    padding:10px;
+}
