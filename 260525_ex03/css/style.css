@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body{
+    color: #333333;
+    font-family: "メイリオ","Hiragino Sans",sans-serif;
+}
+article,footer{
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+}
+h2{
+    border-left:10px solid#003366;
+    padding-left: 8px;
+}
+footer{
+    text-align:center;
+}
+.subhead{
+    background-color: #808000;
+    color: #ffffff;
+    padding:12px;
+}
+.navy{
+    color:#000080;
+}
+.red{
+    color:#ff0000;
+}
